@@ -36,6 +36,7 @@ nav li {
     justify-content: center;
 }
 nav a {
+    color: #fff;
     font-size: 1.5em;
     text-decoration: none;
     text-transform: uppercase;
@@ -53,7 +54,6 @@ nav a:hover {
 }
 nav a:visited {
     color: #fff;
-
 }
 ul {
     list-style-type: none;
